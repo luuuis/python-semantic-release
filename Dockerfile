@@ -1,4 +1,4 @@
-# This Dockerfile is only for GitHub Actions
+# This Dockerfile is only for GitHub Actions. Upgraded to 3.12
 FROM python:3.12-bullseye
 
 RUN set -ex; \
